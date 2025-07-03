@@ -1,0 +1,16 @@
+# Laravel
+/vendor
+/.env
+/node_modules
+/public/storage
+/storage/*.key
+
+# React
+frontend/node_modules
+frontend/dist
+
+# Others
+.idea
+.DS_Store
+.env.local
+.env.*.local
